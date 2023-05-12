@@ -47,3 +47,8 @@ body {
     font-size: 50px;
 }
 
+@media(max-width: 574px) {
+    *{
+        margin: auto;
+    }    
+}
