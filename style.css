@@ -52,7 +52,7 @@ body {
 
 */
 
-/* Versão 2.0 */
+/* Versão 2.0 ( em construção) */ 
 
 * {
     margin: 0;
@@ -95,9 +95,10 @@ body {
 
 .clock span {
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 50px;  
 }
 
 .clock span.time {
     font-size: 20px;
 }
+
